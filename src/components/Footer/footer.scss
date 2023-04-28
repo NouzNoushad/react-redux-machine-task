@@ -1,0 +1,13 @@
+.footer{
+	background-color: darkblue;
+	padding: 15px 20px;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	.links{
+		display: flex;
+		gap: 4px;
+	}
+}
